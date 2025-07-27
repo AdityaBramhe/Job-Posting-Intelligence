@@ -1,4 +1,4 @@
-# 🚀 Job Posting Intelligence System (JPIS)
+# Job Posting Intelligence System (JPIS)
 
 An AI-driven, agent-based pipeline that transforms unstructured job postings into actionable business development signals. This system helps organizations detect hiring trends, technology adoption, geographic expansion, and potential service opportunities — all through the lens of real-world talent demand.
 
@@ -26,7 +26,7 @@ It's ideal for use cases where **data-informed decision making** is critical —
 
 ---
 
-## 🧭 Strategic Alignment
+##  Strategic Alignment
 
 This system aligns with initiatives that focus on:
 
@@ -42,18 +42,18 @@ It’s particularly useful in contexts where timely data is used to:
 
 ---
 
-## 📊 Statistical Insights
+## Statistical Insights
 
 After analyzing ~10,000 job postings:
 
-- 🔥 22% were tagged with high urgency (fill within 1 week)
-- 🧠 8% of companies reposted roles more than 3 times — signaling potential operational or hiring pain
-- 🧰 14% increase in **React Native**, **Rust**, and **Golang** hiring in high-growth tech clusters
-- 🌍 Hiring surges observed in Tier-2 cities — indicating decentralization of operations
+-  22% were tagged with high urgency (fill within 1 week)
+-  8% of companies reposted roles more than 3 times — signaling potential operational or hiring pain
+-  14% increase in **React Native**, **Rust**, and **Golang** hiring in high-growth tech clusters
+- Hiring surges observed in Tier-2 cities — indicating decentralization of operations
 
 ---
 
-## 🧩 System Architecture
+##  System Architecture
 
              +---------------------------+
              |   agent1_data_collector   | ← Scrapes job postings (ScrapingDog API)
